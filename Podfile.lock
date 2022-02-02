@@ -1,0 +1,34 @@
+PODS:
+  - Auth0 (1.38.0):
+    - JWTDecode (~> 2.0)
+    - SimpleKeychain
+  - JWTDecode (2.6.3)
+  - Realm (10.21.1):
+    - Realm/Headers (= 10.21.1)
+  - Realm/Headers (10.21.1)
+  - RealmSwift (10.21.1):
+    - Realm (= 10.21.1)
+  - SimpleKeychain (0.12.5)
+
+DEPENDENCIES:
+  - Auth0 (~> 1.0)
+  - RealmSwift (~> 10)
+
+SPEC REPOS:
+  trunk:
+    - Auth0
+    - JWTDecode
+    - Realm
+    - RealmSwift
+    - SimpleKeychain
+
+SPEC CHECKSUMS:
+  Auth0: 56b4b681712d10bcfddae89d4a73158abebdf5a6
+  JWTDecode: 33e5e26e5ddbd21b2065820894c08fef0cad9509
+  Realm: 44b41c3ae39e3ecfded71a04434bfde066c7b317
+  RealmSwift: dbf9a4eb06e0c929d51c4ef2e8f951bca541feab
+  SimpleKeychain: 8193a9e40967eccac933c1fde82de46c07a5ae26
+
+PODFILE CHECKSUM: 62ee6fd0be2f09dcbf731c978ae715dc101e1949
+
+COCOAPODS: 1.11.2
